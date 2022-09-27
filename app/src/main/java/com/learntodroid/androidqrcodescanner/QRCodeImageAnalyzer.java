@@ -1,5 +1,3 @@
-package com.learntodroid.androidqrcodescanner;
-
 import androidx.annotation.NonNull;
 import androidx.camera.core.ImageAnalysis;
 import androidx.camera.core.ImageProxy;
